@@ -6,5 +6,6 @@ I do website design, Front-end and web application development. <br />
 📢 Contacts: <br />
   Telegram: <a href="https://t.me/artpetrovskiy" target="_blank">@artpetrovskiy</a> <br />
   LinkedIn: <a href="https://www.linkedin.com/in/artpetrovskyi/" target="_blank">artpetrovskyi</a> <br />
-  Email: artpetrovskyi@gmail.com
+  Email: artpetrovskyi@gmail.com <br />
 
+✨ My portfolio: <a href="https://underwhot.github.io/artpetrovskiy/" target="_blank">https://underwhot.github.io/artpetrovskiy/</a>
