@@ -8,4 +8,4 @@ Telegram: <a href="https://t.me/artpetrovskyi" target="_blank">@artpetrovskyi</a
 LinkedIn: <a href="https://www.linkedin.com/in/artpetrovskyi/" target="_blank">artpetrovskyi</a> <br />
 Email: artpetrovskyi@gmail.com <br />
 
-Portfolio: <a href="https://artpetrovskyi.github.io/portfolio/" target="_blank">https://underwhot.github.io/artpetrovskiy/</a>
+Portfolio: <a href="https://artpetrovskyi.github.io/portfolio/" target="_blank">https://artpetrovskyi.github.io/portfolio/</a>
