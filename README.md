@@ -1,11 +1,20 @@
-👋 Hello! My name is Artem Petrovskyi! <br />
-I do website design, Front-end and web application development. <br />
+# 👋 Hi, I'm Artem Petrovskyi
 
-✅ Check out my works to see some of my recent projects. I'm always eager to learn and collaborate, so let's connect on Telegram or drop me a line at e-mail. Looking forward to hearing from you! <br />
+I'm a web designer and front-end developer passionate about building clean, responsive websites and dynamic web applications.  
 
-📢 Contacts: <br />
-Telegram: <a href="https://t.me/artpetrovskyi" target="_blank">artpetrovskyi</a> <br />
-LinkedIn: <a href="https://www.linkedin.com/in/artpetrovskyi/" target="_blank">artpetrovskyi</a> <br />
-Email: artpetrovskyi@gmail.com <br />
+💡 I love turning ideas into real, functional interfaces — from concept to code. Always learning, always creating.
 
-Portfolio: <a href="https://artpetrovskyi.github.io/portfolio/" target="_blank">https://artpetrovskyi.github.io/portfolio/</a>
+---
+
+## 📌 Portfolio  
+Check out some of my recent work:  
+🔗 [artpetrovskyi.github.io/portfolio](https://artpetrovskyi.github.io/portfolio/)
+
+---
+
+## 📬 Get in Touch  
+I'm open to collaboration, freelance work, and new opportunities. Feel free to reach out!
+
+- 💬 Telegram: [@artpetrovskyi](https://t.me/artpetrovskyi)  
+- 💼 LinkedIn: [linkedin.com/in/artpetrovskyi](https://www.linkedin.com/in/artpetrovskyi/)  
+- 📧 Email: [artpetrovskyi@gmail.com](mailto:artpetrovskyi@gmail.com)
